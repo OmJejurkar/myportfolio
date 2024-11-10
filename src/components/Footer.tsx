@@ -11,7 +11,7 @@ export default function Footer() {
             </span>
           </div>
           <div className="flex space-x-6 mb-4 md:mb-0">
-            <a href="https://github.com" className="hover:text-purple-400 transition-colors">
+            <a href="https://github.com/OmJejurkar" className="hover:text-purple-400 transition-colors">
               <Github className="w-6 h-6" />
             </a>
             <a href="https://linkedin.com" className="hover:text-purple-400 transition-colors">
