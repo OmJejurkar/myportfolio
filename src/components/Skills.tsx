@@ -3,19 +3,19 @@ import { Code2, Palette, Database, Terminal } from 'lucide-react';
 const skills = {
   'Frontend Development': {
     icon: Code2,
-    skills: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js', 'Vue.js']
+    skills: ['React', 'Tailwind CSS', 'Next.js']
   },
   'Backend Development': {
     icon: Terminal,
-    skills: ['Node.js', 'Python', 'Java', 'GraphQL', 'REST APIs']
+    skills: ['Node.js', 'Python', 'Java', 'Django',]
   },
   'Database': {
     icon: Database,
-    skills: ['PostgreSQL', 'MongoDB', 'Redis', 'MySQL', 'Firebase']
+    skills: ['PostgreSQL', 'MongoDB', 'MySQL', 'Firebase']
   },
   'Design': {
     icon: Palette,
-    skills: ['Figma', 'Adobe XD', 'UI/UX', 'Responsive Design', 'Wireframing']
+    skills: ['Figma', 'UI/UX', 'Responsive Design', 'Wireframing']
   }
 };
 

@@ -25,13 +25,13 @@ export default function Header() {
           </nav>
 
           <div className="hidden md:flex items-center space-x-4">
-            <a href="https://github.com" className="text-gray-700 hover:text-purple-600 transition-colors">
+            <a href="https://github.com/OmJejurkar" className="text-gray-700 hover:text-purple-600 transition-colors">
               <Github className="w-5 h-5" />
             </a>
-            <a href="https://linkedin.com" className="text-gray-700 hover:text-purple-600 transition-colors">
+            <a href="www.linkedin.com/in/om-jejurkar" className="text-gray-700 hover:text-purple-600 transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="mailto:example@email.com" className="text-gray-700 hover:text-purple-600 transition-colors">
+            <a href="work.jejurkarom@gmail.com" className="text-gray-700 hover:text-purple-600 transition-colors">
               <Mail className="w-5 h-5" />
             </a>
           </div>

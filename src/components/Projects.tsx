@@ -2,28 +2,44 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-featured online shopping platform built with React, Node.js, and MongoDB.',
+    title: 'Pyhton ATM Project ',
+    description: 'A full-featured ATM System Using Python',
     image: 'https://images.unsplash.com/photo-1661956602116-aa6865609028?auto=format&fit=crop&q=80&w=800&h=600',
-    tech: ['React', 'Node.js', 'MongoDB', 'Tailwind CSS'],
-    github: 'https://github.com',
+    tech: ['Python'],
+    github: 'https://github.com/OmJejurkar/Main-ATM-Project',
     live: 'https://example.com'
   },
   {
-    title: 'Task Management App',
-    description: 'A productivity tool for managing tasks and projects with team collaboration features.',
+    title: 'Parent Teacher Conectia Web Application',
+    description: 'This project Connects Parent, Teacher and Student for Student Hostile Development',
     image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800&h=600',
-    tech: ['TypeScript', 'Next.js', 'PostgreSQL', 'Prisma'],
-    github: 'https://github.com',
+    tech: ['HTML5', 'JavaScript', 'MySQL', 'PHP','Tailwind CSS'],
+    github: 'https://github.com/OmJejurkar/PTConnectia.git',
     live: 'https://example.com'
   },
   {
-    title: 'AI Content Generator',
-    description: 'An AI-powered application that generates various types of content using GPT-3.',
+    title: 'Galaxy Store Website',
+    description: 'This website was created under the Subject Digital Marketing for the Galaxy Store',
     image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600',
-    tech: ['Python', 'FastAPI', 'React', 'OpenAI'],
-    github: 'https://github.com',
+    tech: ['React JS'],
+    github: 'https://github.com/OmJejurkar/GalaxyComputers.git',
     live: 'https://example.com'
+  },
+  {
+    title: 'Shraddha Honda Showroom Website',
+    description: 'This website was created under the Subject Minor Project  for the Shraddha Honda ',
+    image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600',
+    tech: ['React JS'],
+    github: '#',
+    live: 'https://example.com'
+  },
+  {
+    title: 'Tech Mantra Website',
+    description: 'This website was created for taking registration for National Level Hackathon Tech Mantra ',
+    image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600',
+    tech: ['React JS'],
+    github: 'https://github.com/SanjivaniDeveloperStudentClub/Techmantra.git',
+    live: '#'
   }
 ];
 

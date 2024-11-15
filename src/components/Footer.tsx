@@ -14,10 +14,10 @@ export default function Footer() {
             <a href="https://github.com/OmJejurkar" className="hover:text-purple-400 transition-colors">
               <Github className="w-6 h-6" />
             </a>
-            <a href="https://linkedin.com" className="hover:text-purple-400 transition-colors">
+            <a href="https://linkedin.com/in/om-jejurkar" className="hover:text-purple-400 transition-colors">
               <Linkedin className="w-6 h-6" />
             </a>
-            <a href="mailto:example@email.com" className="hover:text-purple-400 transition-colors">
+            <a href="work.jejurkarom@gmail.com" className="hover:text-purple-400 transition-colors">
               <Mail className="w-6 h-6" />
             </a>
           </div>

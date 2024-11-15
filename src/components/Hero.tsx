@@ -1,4 +1,4 @@
-import { ArrowDown } from 'lucide-react';
+import { ArrowDown } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -6,14 +6,22 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
         <div className="text-center">
           <h1 className="text-4xl sm:text-6xl font-bold text-gray-900 mb-6">
-            Hi, I'm <span className="bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">Om Jejurkar</span>
+            Hi, I'm{" "}
+            <span className="bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">
+              Om Jejurkar
+            </span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-600 mb-8">
             Full Stack Developer | UI/UX Enthusiast | Problem Solver
           </p>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-12">
-            I create beautiful, functional, and user-friendly digital experiences
-            that help businesses grow and succeed in the modern world.
+            "I design impactful, user-centric digital solutions that enhance
+            efficiency and foster growth. With a strong foundation in
+            programming and innovative technology, I've successfully led
+            projects like the Parent Teacher Connectia web app and an NGO
+            website. Skilled in Java, C++, Python, Django, and React, I bring a
+            blend of technical expertise and creative problem-solving to every
+            project, driving success in the ever-evolving tech landscape.
           </p>
           <div className="flex justify-center space-x-4">
             <a
