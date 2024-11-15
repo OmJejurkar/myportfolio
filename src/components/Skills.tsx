@@ -3,7 +3,7 @@ import { Code2, Palette, Database, Terminal } from 'lucide-react';
 const skills = {
   'Frontend Development': {
     icon: Code2,
-    skills: ['React', 'Tailwind CSS', 'Next.js']
+    skills: ['React', 'Tailwind CSS', 'Next.js','Typescript']
   },
   'Backend Development': {
     icon: Terminal,
